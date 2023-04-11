@@ -1,4 +1,4 @@
-# Image Colour Cheaker Free !!
+# Image Colour Finder !! Developed By Nevil Rana.
 
 import tkinter as tk
 from tkinter import *
